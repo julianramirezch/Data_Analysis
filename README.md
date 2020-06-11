@@ -1,7 +1,7 @@
 <H1 align="center"> Data Analysis </H1>
 
 <p align="center">
-   <a href="https://www.holbertonschool.com/co"><img src="https://www.freepik.com/free-vector/magnifying-glass-data-analysis_761448.htm#page=1&query=data&position=0" width="170" height="170"/></a>
+   <a href="https://www.linkedin.com/in/ing-julian-ramirez-chacon/"><img src="https://image.freepik.com/free-vector/magnifying-glass-data-analysis_23-2147501894.jpg" width="170" height="170"/></a>
 
 <p align="center"> 
    <b> Bogotá D.C </b>
